@@ -1,0 +1,11 @@
+#labels MasterCraft
+MasterCraft is a tool aimed to automate development  process. The goal is similar to that  of Joomla content management framework but MasterCraft should be able to provide framework for reasonably complex business logic and dynamic contents.
+For any domain steps would be:
+1. Finding design modules
+2. Finding design problems
+3. Finding design solutions / design patterns
+4. Finding components
+5. Integrate patterns  and components to build frameworks
+6. Automate the development process (automation framework)
+ 
+When invididual domain processes are abstracted this should give rise to a MasterCraft.
